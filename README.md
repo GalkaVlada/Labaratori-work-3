@@ -68,5 +68,12 @@
 
 ![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/10.jpg)
 
-
 Рис. 15 - Збереження змін 2.6
+
+![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/photo_5197400467204856336_w.jpg)
+
+Рис. 16 - Збереження змін 2.7
+
+![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/photo_5197400467204856337_w.jpg)
+
+Рис. 17 - Збереження змін 2.7
