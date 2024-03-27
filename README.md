@@ -49,6 +49,19 @@
 
 ### «4 Проста обробка результатів виконання команд».
 
+![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/6.jpg)
+
+Рис.11 - Фрагмент екрану з рішенням завдання 2.5.1
+
+![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/7.jpg)
 
 
+Рис.12 - Фрагмент екрану з рішенням завдання 2.5.2
 
+![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/8.jpg)
+
+Рис.13 - Фрагмент екрану з рішенням завдання 2.5.3
+
+![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/9.jpg)
+
+Рис.14 - Фрагмент екрану з рішенням завдання 2.5.4
