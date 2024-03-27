@@ -1,1 +1,1 @@
-# Labaratori-work-3
+# Laboratory-work-3
