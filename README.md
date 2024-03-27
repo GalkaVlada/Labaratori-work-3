@@ -13,3 +13,5 @@
 ![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/3.jpg)
 
 Рис.3 - Фрагмент екрану з рішенням завдання 2.2.2
+
+### «2 Налаштування псевдонімів команд оболонки Bash».
