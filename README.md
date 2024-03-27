@@ -19,3 +19,17 @@
 ![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/4.jpg)
 
 Рис.4 - Фрагмент екрану з рішенням завдання 2.3.2
+
+![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/photo_5197400467204856302_x.jpg)
+
+Рис.5 - Фрагмент екрану з рішенням завдання 2.3.3
+
+![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/photo_5197400467204856304_x.jpg)
+
+Рис.6 - Фрагмент екрану з рішенням завдання 2.3.5
+
+![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/photo_5197400467204856305_x.jpg)
+
+Рис.6 - Фрагмент екрану з рішенням завдання 2.3.6
+
+Рис.7 - Фрагмент екрану з рішенням завдання 2.3.2
