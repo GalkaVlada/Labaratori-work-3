@@ -9,3 +9,7 @@
 ![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/2.jpg)
 
 Рис.2 - Фрагмент екрану з рішенням завдання 2.1.2
+
+![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/3.jpg)
+
+Рис.3 - Фрагмент екрану з рішенням завдання 2.2.2
