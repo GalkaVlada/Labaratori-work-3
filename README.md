@@ -32,4 +32,23 @@
 
 Рис.7 - Фрагмент екрану з рішенням завдання 2.3.6
 
+### «3 Робота з файлами через перенаправлення вхідних/вихідних потоків».
+
+![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/_3.jpg)
+
+Рис.8 - Фрагмент екрану з рішенням завдання 2.4.2
+
+![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/_2.jpg)
+
+
+Рис.9 - Фрагмент екрану з рішенням завдання 2.4.4
+
+![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/_1.jpg)
+
+Рис.10 - Фрагмент екрану з рішенням завдання 2.4.6
+
+### «4 Проста обробка результатів виконання команд».
+
+
+
 
