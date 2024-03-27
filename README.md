@@ -65,3 +65,8 @@
 ![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/9.jpg)
 
 Рис.14 - Фрагмент екрану з рішенням завдання 2.5.4
+
+![image](https://github.com/GalkaVlada/Labaratori-work-3/blob/main/10.jpg)
+
+
+Рис. 15 - Збереження змін 2.6
